@@ -138,6 +138,7 @@ Retrieve image of bowling team captain.
  
  ### Live Dashboard of SRH vs MI (6 May 2024)
 ![Dashboard](https://github.com/anjali-thawani/IPL-data-analysis/assets/168136647/cb7c1355-a16b-4bff-bf62-504408f0de6a)
+![Screenshot (227)](https://github.com/anjali-thawani/IPL-data-analysis/assets/168136647/faa4b9eb-075f-4788-b64a-127749c0f51d)
 
 ### Tooltip used
 ![Tooltip](https://github.com/anjali-thawani/IPL-data-analysis/assets/168136647/e4e29afa-a746-4436-8b3d-9bf84772ea12)
@@ -146,3 +147,7 @@ Retrieve image of bowling team captain.
 ![Screenshot (226)](https://github.com/anjali-thawani/IPL-data-analysis/assets/168136647/b549cb5c-3fa2-4289-b9e7-293a5d418718)
 
 ![Screenshot (223)](https://github.com/anjali-thawani/IPL-data-analysis/assets/168136647/711a9985-1f43-4eb0-937a-a59d30c1f4bf)
+
+### Previous Match KKR vs LSG (5 may 2024)
+![Screenshot (228)](https://github.com/anjali-thawani/IPL-data-analysis/assets/168136647/3a174a50-c849-464d-bd96-d29f602da5a9)
+
